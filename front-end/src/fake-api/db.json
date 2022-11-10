@@ -1,0 +1,25 @@
+{
+    "charts": [
+      {
+        "id": 0,
+        "name": "Baju",
+        "price": "Rp. 10.000",
+        "img": "https://i.pinimg.com/originals/8a/33/ed/8a33ed7b4004a3497e41d1bc06650595.jpg",
+        "qty": 10
+      },
+      {
+        "id": 1,
+        "name": "Celana",
+        "price": "Rp. 20.000",
+        "img": "https://i.pinimg.com/564x/19/61/07/196107edb782a830a4178ad420a65e70.jpg",
+        "qty": 20
+      },
+      {
+        "id": 2,
+        "name": "Topi",
+        "price": "Rp. 30.000",
+        "img": "https://i.pinimg.com/564x/43/7e/6a/437e6aec65933ca025b12603364e7d74.jpg",
+        "qty": 30
+      }
+    ]
+  }
